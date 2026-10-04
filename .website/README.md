@@ -2,6 +2,9 @@
 genres:
   - strategy
   - puzzle
+
+directors_cut: https://frost-sun.github.io/Unicorns/
+
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
